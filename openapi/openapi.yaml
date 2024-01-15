@@ -12,10 +12,10 @@ info:
   x-logo:
     url: https://redocly.github.io/openapi-template/logo.png
   description: >
-    This is an **example** API to demonstrate features of the OpenAPI
+    This is an **example** API to demonstrate features of the OpenAPI 
     specification.
 
-    # Introduction
+    # Introduction - Henry
 
     This API definition is intended to to be a good starting point for
     describing your API in [OpenAPI/Swagger
